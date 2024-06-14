@@ -1,7 +1,7 @@
-url: https://pixel-api.scupio.com
-status: down
-code: 404
-responseTime: 490
-lastUpdated: 2024-06-14T08:06:12.599Z
+url: https://pixel-api.scupio.com/v0/event/
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2024-06-14T08:47:52.218Z
 startTime: 2024-06-14T07:39:00.728Z
 generator: Upptime <https://github.com/upptime/upptime>
