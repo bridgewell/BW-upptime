@@ -1,22 +1,22 @@
 [
   {
     "name": "pixelserver",
-    "url": "https://pixel-api.scupio.com",
+    "url": "https://pixel-api.scupio.com/v0/event/",
     "icon": "https://icons.duckduckgo.com/ip3/pixel-api.scupio.com.ico",
     "slug": "pixelserver",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "status": "up",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 498,
+    "timeDay": 498,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-06-14": 28
+      "2024-06-14": 69
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/c.scupio.com.ico",
     "slug": "new-click-server",
     "status": "down",
-    "uptime": "19.35%",
-    "uptimeDay": "19.35%",
-    "uptimeWeek": "19.35%",
-    "uptimeMonth": "19.35%",
-    "uptimeYear": "19.35%",
-    "time": 2740,
-    "timeDay": 2740,
-    "timeWeek": 2740,
-    "timeMonth": 2740,
-    "timeYear": 2740,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 2875,
+    "timeDay": 2875,
+    "timeWeek": 2875,
+    "timeMonth": 2875,
+    "timeYear": 2875,
     "dailyMinutesDown": {
-      "2024-06-14": 0
+      "2024-06-14": 42
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 380,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
