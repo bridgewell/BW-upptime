@@ -6,12 +6,8 @@ sites:
   - name: pixelserver
     url: https://pixel-api.scupio.com/v0/event/
     method: POST
-    headers:
-      - "Content-Type: application/json"
-      - "Cookie: OrgKeyValue=CNR20240614162447564524"
-    body: '{ "PixelId": "12345", "EventName": "TestEvent", "PixelVersion": "1.0", "key": "value" }'
   - name: New-click-server
-    url: https://c.scupio.com
+    url: https://c.scupio.com/v0/click
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
