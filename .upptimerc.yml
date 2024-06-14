@@ -7,17 +7,9 @@ sites:
     url: https://pixel-api.scupio.com/v0/event/
     method: POST
     headers:
-      - name: Content-Type
-        value: application/json
-      - name: Cookie
-        value: OrgKeyValue=CNR20240614162447564524
-    body: >
-      {
-        "PixelId": "12345",
-        "EventName": "TestEvent",
-        "PixelVersion": "1.0",
-        "key": "value"
-      }
+      - "Content-Type: application/json"
+      - "Cookie: OrgKeyValue=CNR20240614162447564524"
+    body: '{ "PixelId": "12345", "EventName": "TestEvent", "PixelVersion": "1.0", "key": "value" }'
   - name: New-click-server
     url: https://c.scupio.com
   - name: Google
