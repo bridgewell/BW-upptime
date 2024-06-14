@@ -4,7 +4,9 @@ repo: BW-upptime # The name of this repository
 
 sites:
   - name: pixelserver
-    url: pixel-api.scupio.com
+    url: https://pixel-api.scupio.com
+  - name: New-click-server
+    url: https://c.scupio.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
