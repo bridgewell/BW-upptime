@@ -5,21 +5,18 @@ repo: BW-upptime # The name of this repository
 sites:
   - name: pixelserver
     url: https://pixel-api.scupio.com/v0/event/
+  - name: 91app-pixelserver
+    url: https://91app-api.scupio.com/91app/v1/s2s/
+  - name: appsflyer-pixelserver
+    url: https://appsflyer-api.scupio.com/appsflyer/v1/s2s
+  - name: adjust-pixelserver
+    url: https://adjust-api.scupio.com/adjust/v0/event/
+  - name: dable-pixelserver
+    url: https://dable-api.scupio.com/dable/v0/event/
   - name: New-click-server
     url: https://c.scupio.com/v0/click
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
