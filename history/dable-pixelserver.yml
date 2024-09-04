@@ -1,7 +1,7 @@
 url: https://dable-api.scupio.com/dable/v1/exc/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-04T06:49:32.398Z
+status: up
+code: 200
+responseTime: 3062
+lastUpdated: 2024-09-04T06:55:51.839Z
 startTime: 2024-06-17T08:47:20.811Z
 generator: Upptime <https://github.com/upptime/upptime>
