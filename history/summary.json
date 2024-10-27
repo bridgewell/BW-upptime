@@ -127,9 +127,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +138,8 @@
     "timeWeek": 112,
     "timeMonth": 107,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-27": 0
+    }
   }
 ]
