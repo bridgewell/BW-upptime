@@ -1,7 +1,7 @@
 url: https://91app-api.scupio.com/91app/v1/s2s/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-23T09:59:33.101Z
+status: up
+code: 200
+responseTime: 3010
+lastUpdated: 2024-12-23T10:18:56.657Z
 startTime: 2024-06-17T08:47:12.603Z
 generator: Upptime <https://github.com/upptime/upptime>
