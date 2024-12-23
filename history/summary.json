@@ -4,11 +4,11 @@
     "url": "https://pixel-api.scupio.com/v0/event/",
     "icon": "https://icons.duckduckgo.com/ip3/pixel-api.scupio.com.ico",
     "slug": "pixelserver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.92%",
     "time": 589,
     "timeDay": 535,
@@ -16,6 +16,7 @@
     "timeMonth": 595,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2024-12-23": 3,
       "2024-09-04": 231,
       "2024-09-03": 1440,
       "2024-09-02": 1250,
@@ -27,28 +28,30 @@
     "url": "https://91app-api.scupio.com/91app/v1/s2s/",
     "icon": "https://icons.duckduckgo.com/ip3/91app-api.scupio.com.ico",
     "slug": "91app-pixelserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1869,
     "timeDay": 2910,
     "timeWeek": 2990,
     "timeMonth": 3155,
     "timeYear": 1869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 2
+    }
   },
   {
     "name": "appsflyer-pixelserver",
     "url": "https://appsflyer-api.scupio.com/appsflyer/v1/s2s",
     "icon": "https://icons.duckduckgo.com/ip3/appsflyer-api.scupio.com.ico",
     "slug": "appsflyer-pixelserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2973,
@@ -56,17 +59,19 @@
     "timeWeek": 2973,
     "timeMonth": 2986,
     "timeYear": 2973,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 2
+    }
   },
   {
     "name": "adjust-pixelserver",
     "url": "https://adjust-api.scupio.com/adjust/v1/s2s/",
     "icon": "https://icons.duckduckgo.com/ip3/adjust-api.scupio.com.ico",
     "slug": "adjust-pixelserver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 2969,
@@ -75,6 +80,7 @@
     "timeMonth": 2976,
     "timeYear": 2969,
     "dailyMinutesDown": {
+      "2024-12-23": 1,
       "2024-09-04": 231,
       "2024-09-03": 1440,
       "2024-09-02": 1270
@@ -85,10 +91,10 @@
     "url": "https://dable-api.scupio.com/dable/v1/exc/",
     "icon": "https://icons.duckduckgo.com/ip3/dable-api.scupio.com.ico",
     "slug": "dable-pixelserver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 2967,
@@ -97,6 +103,7 @@
     "timeMonth": 2985,
     "timeYear": 2967,
     "dailyMinutesDown": {
+      "2024-12-23": 1,
       "2024-09-04": 231,
       "2024-09-03": 1440,
       "2024-09-02": 1235
@@ -107,9 +114,9 @@
     "url": "https://c.scupio.com/v0/click",
     "icon": "https://icons.duckduckgo.com/ip3/c.scupio.com.ico",
     "slug": "new-click-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -119,6 +126,7 @@
     "timeMonth": 2990,
     "timeYear": 2959,
     "dailyMinutesDown": {
+      "2024-12-23": 0,
       "2024-06-14": 68
     }
   },
